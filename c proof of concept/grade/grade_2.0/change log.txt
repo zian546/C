@@ -1,0 +1,6 @@
+update log to grade.c :
+
+v 2.0:
+1. added insert to a certain position feature 
+2. minor changes to how the grades are printed(it's nunmbered now)
+3. added confirmation to the delete command

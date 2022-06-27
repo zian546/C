@@ -1,0 +1,13 @@
+update log to grade.c :
+
+v 2.0:
+1. added insert to a certain position feature 
+2. minor changes to how the grades are printed(it's nunmbered now)
+3. added confirmation to the delete command
+
+v 2.1:
+1. added delete grades in certain position feature
+2. fix the average feature
+
+v 2.2:
+1. change the grades input mechanism from insert on the front to insert on the back
